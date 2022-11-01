@@ -34,14 +34,14 @@
     "underscore": "^1.7.0"
   },
   "devDependencies": {
-    "browserify": "^8.1.3",
+    "browserify": "^17.0.0",
     "eslint": "^4.19.1",
     "eslint-config-prettier": "^2.9.0",
     "eslint-plugin-prettier": "^2.6.0",
     "eslint-plugin-react": "^7.7.0",
-    "mocha": "^2.1.0",
+    "mocha": "^10.1.0",
     "prettier": "1.11.1",
     "reactify": "^1.0.0",
-    "watchify": "^2.3.0"
+    "watchify": "^4.0.0"
   }
 }
