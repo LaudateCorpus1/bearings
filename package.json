@@ -39,7 +39,7 @@
     "eslint-config-prettier": "^2.9.0",
     "eslint-plugin-prettier": "^2.6.0",
     "eslint-plugin-react": "^7.7.0",
-    "mocha": "^2.1.0",
+    "mocha": "^10.2.0",
     "prettier": "1.11.1",
     "reactify": "^1.0.0",
     "watchify": "^2.3.0"
